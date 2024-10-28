@@ -91,7 +91,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/threejscc-portfolio.git
+git clone https://github.com/https://github.com/Deoshabh/three.git
 cd threejscc-portfolio
 ```
 
